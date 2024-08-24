@@ -38,25 +38,25 @@ export default function Footer() {
                             <div>
                                 <Link href="https://top.gg/bot/774043716797071371/vote">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Vote Bot
+                                        Oy Ver
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <a href="https://discord.gg/ZcDprCrFTn" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.gg/p9WDE4QSyB" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Destek Sunucusu
                                 </a>
                             </div>
                             <div>
                                 <a href="https://discord.com/oauth2/authorize?client_id=1240735854511783936&permissions=8&integration_type=0&scope=bot+applications.commands" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Botu Sunucunuza Ekleyin
+                                    Botu Ekle
                                 </a>
                             </div>
                         </div>
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Social</p>
                             <div>
-                                <Link href="https://discord.gg/ST89uArTdh">
+                                <Link href="https://discord.gg/p9WDE4QSyB">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-discord`} /> Disocrd 
                                     </a>
