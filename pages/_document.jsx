@@ -33,7 +33,7 @@ class MyDocument extends Document {
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Ordu Yönetimi TMA"
+            content="Ordu Yönetimi - TMA"
           />
           <meta name="theme-color" content="#dd0808" />
           <link rel="icon" href="/img/logo.png" type="image/x-icon" />
