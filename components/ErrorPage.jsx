@@ -24,7 +24,7 @@ const ErrorPage = ({ code, message }) => {
                     router.back();
                 }}
             >
-                {clicked ? <i className="fad fa-spinner-third fa-spin text-white" /> : <><i className='fa fa-arrow-left mr-2' />Go Back</>}
+                {clicked ? <i className="fad fa-spinner-third fa-spin text-white" /> : <><i className='fa fa-arrow-left mr-2' />Ana Sayfaya Git</>}
             </button>
         </div>
     </>
