@@ -35,7 +35,7 @@ class MyDocument extends Document {
             property="og:site_name"
             content="Ordu Yönetimi TMA"
           />
-          <meta name="theme-color" content="#087ddd" />
+          <meta name="theme-color" content="#dd0808" />
           <link rel="icon" href="/img/logo.png" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
