@@ -87,7 +87,7 @@ Ordu Yönetimine Oy Ver</a>
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://media.discordapp.net/attachments/907378577253744640/1176892776877666325/image.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
-                  <p className="text-3xl text-white font-semibold">Ordu Yönetimi</p>
+                  <p className="text-3xl text-white font-semibold">Ordu Yönetimi Reflex</p>
                   <p className="En iyi ve en güncel bot olan Ordu Yönetimi ile en iyi komutları kullanmaya hazır mısınız?</p>
                 </div>
                 <img src="https://cdn.discordapp.com/attachments/1275831480915857461/1276915983088615477/logo.png?ex=66cb442e&is=66c9f2ae&hm=eb543404a9c7ab4d8239168aebe918fbce7fd1e6158c65157b5accecd1762ff8&" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
