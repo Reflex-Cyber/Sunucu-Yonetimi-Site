@@ -11,7 +11,7 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="Ordu Yönetimi Reflex 1"
+            content="Ordu Yönetimi"
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@OrduYönetimi" />
@@ -26,14 +26,14 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="Ordu Yönetimi ile kendinidi yapılandır.."
+            content="Ordu Yönetimi ile kendinidi yapılandır."
           />
           <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="Ordu Yönetimi Reflex 3" />
+          <meta property="og:image:alt" content="Ordu Yönetimi" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Ordu Yönetimi"
+            content="Ordu Yönetimi TMA"
           />
           <meta name="theme-color" content="#087ddd" />
           <link rel="icon" href="/img/logo.png" type="image/x-icon" />
