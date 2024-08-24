@@ -14,8 +14,8 @@ class MyDocument extends Document {
             content="Ordu Yönetimi - TMA Studios"
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@OrduYönetimi-TMAStudios" />
-          <meta name="twitter:creator" content="@Reflex" />
+          <meta name="twitter:site" content="@OrduYönetimi" />
+          <meta name="twitter:creator" content="@OrduYönetimi" />
           <meta property="og:url" content="https://ordu-yönetimi-tma.vercel.app" />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="Ordu Yönetimi - TMA Studios" />
