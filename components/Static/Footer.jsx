@@ -36,13 +36,6 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Linkler</p>
                             <div>
-                                <Link href="https://top.gg/bot/774043716797071371/vote">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Oy Ver
-                                    </a>
-                                </Link>
-                            </div>
-                            <div>
                                 <a href="https://discord.gg/p9WDE4QSyB" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Destek Sunucusu
                                 </a>
@@ -91,7 +84,7 @@ export default function Footer() {
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"Powered by Reflex Studio"}
+                            {"Powered by @ReflexStudio"}
                         </p>
                     </div>
                 </div>
