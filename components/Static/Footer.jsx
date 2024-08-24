@@ -23,7 +23,7 @@ export default function Footer() {
                                             height="18"
                                             className="mr-2 h-4 rounded-sm"
                                         />
-                                        English
+                                        Türkçe
                                         <ChevronDownIcon
                                             className="w-5 h-5 ml-2 -mr-1 transform rotate-180 text-violet-200 hover:text-violet-100"
                                             aria-hidden="true"
