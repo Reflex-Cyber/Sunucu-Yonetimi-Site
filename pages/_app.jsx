@@ -39,13 +39,6 @@ export default function AwardApp({ Component, pageProps }) {
       activeIcon: "fab fa-robot",
       href: "https://discord.com/oauth2/authorize?client_id=1240735854511783936&permissions=8&integration_type=0&scope=bot+applications.commands",
     },
-       {
-      link: true,
-      name: "Oy Ver",
-      icon: "fa fa-plus",
-      activeIcon: "fa fa-plus",
-      href: "https://top.gg/bot/774043716797071371/vote",
-    },
   ]
 
   return (
