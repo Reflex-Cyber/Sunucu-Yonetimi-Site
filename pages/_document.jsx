@@ -11,14 +11,14 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            content="Ordu Yönetimi."
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@MusicMaker" />
-          <meta name="twitter:creator" content="@MusicMaker" />
-          <meta property="og:url" content="https://musicmaker.vercel.app" />
+          <meta name="twitter:site" content="@OrduYönetimi" />
+          <meta name="twitter:creator" content="@OrduYönetimi" />
+          <meta property="og:url" content="https://ordu-yönetimi-tma.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="MusicMaker" />
+          <meta property="og:title" content="Ordu Yönetimi" />
           <link
             rel="icon"
             href="/img/logo2.png"
