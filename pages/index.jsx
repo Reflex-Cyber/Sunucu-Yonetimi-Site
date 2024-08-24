@@ -15,17 +15,6 @@ export default function Index() {
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
        Ordu Yönetimi ile kendi sunucunuzu yönetmeye ne dersiniz? Kendi özgür dünyanızı yaratın ve kendi Sunucu Yönetiminizi oluşturun, bu keyfi en iyi komutlarla yaşayın. 
 	  </p>
-        <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
-  
-            <Link href={"https://discord.com/oauth2/authorize?client_id=1240735854511783936&permissions=8&integration_type=0&scope=bot+applications.commands"}>
-              <a
-                className={
-                  "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
-                }
-              >
-          Botu Sunucunuza Ekleyin
-              </a>
-            </Link>
         </div>
 
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 -left-[10vw] absolute top-[8vw] h-[35vw] flex-shrink-0 grayscale rotate-[1deg]">
