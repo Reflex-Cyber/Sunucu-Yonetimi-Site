@@ -18,7 +18,7 @@ class MyDocument extends Document {
           <meta name="twitter:creator" content="@OrduYönetimi" />
           <meta property="og:url" content="https://ordu-yönetimi-tma.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Ordu Yönetimi" />
+          <meta property="og:title" content="Ordu Yönetimi - TMA Studios" />
           <link
             rel="icon"
             href="/img/logo2.png"
@@ -29,7 +29,7 @@ class MyDocument extends Document {
             content="Topluluk işlerine yardımcı olması için yapılmış olan bir bot!"
           />
           <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="Ordu Yönetimi" />
+          <meta property="og:image:alt" content="Ordu Yönetimi - TMA Studios" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
