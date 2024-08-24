@@ -21,7 +21,7 @@ class MyDocument extends Document {
           <meta property="og:title" content="MusicMaker" />
           <link
             rel="icon"
-            href="/img/logo.png"
+            href="/img/logo2.png"
             type="image/x-icon"
           />
           <meta
@@ -36,7 +36,7 @@ class MyDocument extends Document {
             content="Ordu Yönetimi TMA"
           />
           <meta name="theme-color" content="#087ddd" />
-          <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
+          <link rel="icon" href="/img/logo.png" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"
