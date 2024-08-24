@@ -40,11 +40,6 @@ export default function Footer() {
                                     Destek Sunucusu
                                 </a>
                             </div>
-                            <div>
-                                <a href="https://discord.com/oauth2/authorize?client_id=1240735854511783936&permissions=8&integration_type=0&scope=bot+applications.commands" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Botu Ekle
-                                </a>
-                            </div>
                         </div>
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Sosyal Medya</p>
