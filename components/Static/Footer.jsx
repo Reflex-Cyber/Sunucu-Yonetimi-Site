@@ -18,7 +18,7 @@ export default function Footer() {
                                 <div>
                                     <Menu.Button className="flex z-1 items-center w-full px-4 py-2 text-sm font-medium text-white bg-black rounded-md bg-opacity-20 hover:bg-opacity-30 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75">
                                         <img
-                                            src={`https://flagcdn.com/w80/gb.png`}
+                                            src={`https://cdn.discordapp.com/attachments/1275831480915857461/1276959475730878495/iscinin-Kendi-Partisi-Bayraklari-42232.png?ex=66cb6caf&is=66ca1b2f&hm=718078ef3e5542d1a7231b8eb0cc882ad4a7d755da6889f5dbe4045da24ff8e3&`}
                                             width="24"
                                             height="18"
                                             className="mr-2 h-4 rounded-sm"
@@ -34,7 +34,7 @@ export default function Footer() {
                         
                         </div>
                         <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
+                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Linkler</p>
                             <div>
                                 <Link href="https://top.gg/bot/774043716797071371/vote">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
@@ -54,7 +54,7 @@ export default function Footer() {
                             </div>
                         </div>
                         <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Social</p>
+                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Sosyal Medya</p>
                             <div>
                                 <Link href="https://discord.gg/p9WDE4QSyB">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
@@ -64,18 +64,18 @@ export default function Footer() {
                             </div>
                         </div>
                         <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Important</p>
+                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Önemli</p>
                             <div>
                                 <Link href="/tos">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Terms Of Service
+                                        Hizmet Şartları
                                     </a>
                                 </Link>
                             </div>
                             <div>
                                 <Link href="/privacy">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Privacy Policy
+                                        Gizlilik Politikası
                                     </a>
                                 </Link>
                             </div>
@@ -87,11 +87,11 @@ export default function Footer() {
                         </p>
                         <div className="hidden md:flex items-center justify-center">
                                 <p className={"text-xs text-green-400"}>
-                                    Bot Aktif
+                                    Ordu Yönetimi Aktif
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"reflex1255 tarafından yapıldı"}
+                            {"Powered by Reflex Studio"}
                         </p>
                     </div>
                 </div>
