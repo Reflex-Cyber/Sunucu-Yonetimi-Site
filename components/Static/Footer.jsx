@@ -19,8 +19,8 @@ export default function Footer() {
                                     <Menu.Button className="flex z-1 items-center w-full px-4 py-2 text-sm font-medium text-white bg-black rounded-md bg-opacity-20 hover:bg-opacity-30 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75">
                                         <img
                                             src={`https://www.elabayrak.com/blog/imajlar/haberresim/iscinin-Kendi-Partisi-Bayraklari-42232.jpg`}
-                                            width="24"
-                                            height="18"
+                                            width="28"
+                                            height="22"
                                             className="mr-2 h-4 rounded-sm"
                                         />
                                         Türkçe
