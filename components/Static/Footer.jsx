@@ -32,34 +32,17 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Linkler</p>
                             <div>
-                                <a href="https://discord.gg/p9WDE4QSyB" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Destek Sunucusu
+                                <a href="https://discord.gg/eskitatpt" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                    Eski TA - TPT
                                 </a>
                             </div>
                         </div>
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Sosyal Medya</p>
                             <div>
-                                <Link href="https://discord.gg/p9WDE4QSyB">
+                                <Link href="https://discord.gg/eskitatpt">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-discord`} /> Discord 
-                                    </a>
-                                </Link>
-                            </div>
-                        </div>
-                        <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Önemli</p>
-                            <div>
-                                <Link href="/tos">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Hizmet Şartları
-                                    </a>
-                                </Link>
-                            </div>
-                            <div>
-                                <Link href="/privacy">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Gizlilik Politikası
                                     </a>
                                 </Link>
                             </div>
@@ -71,11 +54,11 @@ export default function Footer() {
                         </p>
                         <div className="hidden md:flex items-center justify-center">
                                 <p className={"text-xs text-green-400"}>
-                                    Ordu Yönetimi Aktif
+                                    Site Aktif
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"Powered by @ReflexStudio"}
+                            {"Powered by @Reflex"}
                         </p>
                     </div>
                 </div>
