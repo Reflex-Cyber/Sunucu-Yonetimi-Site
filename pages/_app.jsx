@@ -27,17 +27,10 @@ export default function AwardApp({ Component, pageProps }) {
     },
     {
       link: true,
-      name: "Destek",
+      name: "Eski TA - TPT Sunucu",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
-      href: "https://discord.gg/p9WDE4QSyB",
-    },
-    {
-      link: true,
-      name: "Botu Ekle",
-      icon: "fal fa-robot",
-      activeIcon: "fab fa-robot",
-      href: "https://discord.com/oauth2/authorize?client_id=1240735854511783936&permissions=8&integration_type=0&scope=bot+applications.commands",
+      href: "https://discord.gg/eskitatpt",
     },
   ]
 
