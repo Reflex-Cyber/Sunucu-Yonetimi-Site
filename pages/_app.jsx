@@ -43,7 +43,7 @@ export default function AwardApp({ Component, pageProps }) {
       />
       <Head>
         <title>
-          Ordu Yönetimi
+          Eski TA - TPT
         </title>
       </Head>
       <main className="transition-all duration-200 z-10 absolute inset-0 px-5 h-screen max-w-7xl w-full mx-auto">
