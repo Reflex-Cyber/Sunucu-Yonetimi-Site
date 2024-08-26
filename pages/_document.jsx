@@ -16,7 +16,7 @@ class MyDocument extends Document {
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@EskiTATPT" />
           <meta name="twitter:creator" content="@EskiTATPT" />
-          <meta property="og:url" content="https://ordu-yönetimi-tma.vercel.app" />
+          <meta property="og:url" content="https://eski-ta-tpt.vercel.app" />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="Eski TA - TPT" />
           <link
