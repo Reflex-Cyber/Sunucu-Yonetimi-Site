@@ -24,7 +24,6 @@ export default function Footer() {
                                             className="mr-2 h-4 rounded-sm"
                                         />
                                         Türkçe
-                                        />
                                     </Menu.Button>
                                 </div>
                             </Menu>
