@@ -7,7 +7,7 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img width="500" src="https://banafikirver.com/images/posts/2021/05/post-1622101586-7262-unlu.webp" />
+      <img width="500" src="https://www.freepnglogos.com/uploads/ataturk-png/mustafa-kemal-ataturk-imzasi-png-photo-8.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           Eski TA - TPT
