@@ -21,14 +21,14 @@ class MyDocument extends Document {
           <meta property="og:title" content="Eski TA - TPT" />
           <link
             rel="icon"
-            href="/img/logo2.png"
+            href="https://play-lh.googleusercontent.com/glgNKjN8hykdWM8rNAGaAeUWA8SWwqH_ziJWvfqzw9_fyjivEGgQlvcm4cZ0Efu-4w=w600-h300-pc0xffffff-pd"
             type="image/x-icon"
           />
           <meta
             property="og:description"
             content="Topluluk işlerine yardımcı olması için yapılmış olan bir bot!"
           />
-          <meta property="og:image" content="https://play-lh.googleusercontent.com/glgNKjN8hykdWM8rNAGaAeUWA8SWwqH_ziJWvfqzw9_fyjivEGgQlvcm4cZ0Efu-4w=w600-h300-pc0xffffff-pd" />
+          <meta property="og:image" content="https://banafikirver.com/images/posts/2021/05/post-1622101586-7262-unlu.webp" />
           <meta property="og:image:alt" content="Eski TA - TPT" />
           <meta property="og:locale" content="en_GB" />
           <meta
@@ -36,7 +36,7 @@ class MyDocument extends Document {
             content="Ordu Yönetimi - TMA Studios"
           />
           <meta name="theme-color" content="#dd0808" />
-          <link rel="icon" href="/img/logo.png" type="image/x-icon" />
+          <link rel="icon" href="https://play-lh.googleusercontent.com/glgNKjN8hykdWM8rNAGaAeUWA8SWwqH_ziJWvfqzw9_fyjivEGgQlvcm4cZ0Efu-4w=w600-h300-pc0xffffff-pd" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"
