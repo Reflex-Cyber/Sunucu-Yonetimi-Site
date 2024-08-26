@@ -16,6 +16,25 @@ export default function Index() {
        Ordu Yönetimi ile kendi sunucunuzu yönetmeye ne dersiniz? Kendi özgür dünyanızı yaratın ve kendi Sunucu Yönetiminizi oluşturun, bu keyfi en iyi komutlarla yaşayın. 
 	  </p>
 
+        <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 -left-[10vw] absolute top-[8vw] h-[35vw] flex-shrink-0 grayscale rotate-[1deg]">
+        <Image width="600" height="600" src="/img/gift-left.png"  />
+        </div>
+        <div style={{ zIndex: '-1' }} className="hidden xl:block undrag opacity-10 pointer-events-none -right-[15vw] absolute top-[13vw] h-[90vw] grayscale -rotate-9">
+        <Image  width="600" height="600" src="/img/gift-right.png"  />
+        </div>
+      </div>
+
+
+
+      <div className="grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
+          <div className="col-span-4">
+            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Ordu Yönetimi" }} />
+            <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "Eski TA ve TPT sunucusunda keyfini iki katına çıkarmak ister misin?" }}/>
+            <a href="https://discord.gg/eskitatpt" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
+              <i className="fab fa-discord mr-2" />Sunucuya Katıl!
+            </a>
+          </div>
+
           <div className="col-span-8 grid grid-cols-1 lg:grid-cols-2 gap-6">
            
               <div>
