@@ -18,15 +18,12 @@ export default function Footer() {
                                 <div>
                                     <Menu.Button className="flex z-1 items-center w-full px-4 py-2 text-sm font-medium text-white bg-black rounded-md bg-opacity-20 hover:bg-opacity-30 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75">
                                         <img
-                                            src={`https://cdn.discordapp.com/attachments/1275831480915857461/1276959475730878495/iscinin-Kendi-Partisi-Bayraklari-42232.png?ex=66cb6caf&is=66ca1b2f&hm=718078ef3e5542d1a7231b8eb0cc882ad4a7d755da6889f5dbe4045da24ff8e3&`}
+                                            src={`https://www.elabayrak.com/blog/imajlar/haberresim/iscinin-Kendi-Partisi-Bayraklari-42232.jpg`}
                                             width="24"
                                             height="18"
                                             className="mr-2 h-4 rounded-sm"
                                         />
                                         Türkçe
-                                        <ChevronDownIcon
-                                            className="w-5 h-5 ml-2 -mr-1 transform rotate-180 text-violet-200 hover:text-violet-100"
-                                            aria-hidden="true"
                                         />
                                     </Menu.Button>
                                 </div>
