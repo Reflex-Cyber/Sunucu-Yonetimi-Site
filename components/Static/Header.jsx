@@ -83,7 +83,7 @@ const Header = ({ $, NavItems }) => {
                                 width="80" height="80"
                             />
                             <p className="invisible md:visible text-xl text-white font-semibold">
-                              <a href="/"><span className="text-amber-400">Ordu </span>Yönetimi</a>
+                              <a href="/"><span className="text-amber-400">Eski </span>TA - TPT</a>
                             </p>
                         </div>
                         <ul className="hidden lg:flex items-center space-x-4">
