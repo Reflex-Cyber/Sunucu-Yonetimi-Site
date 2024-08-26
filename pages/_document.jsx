@@ -26,7 +26,7 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="Eski TA - TPT hakkında bilgi almanı sağlar!"
+            content="Eski TA - TPT hakkında bilgi almanı sağlar! Hemen tıkla."
           />
           <meta property="og:image" content="https://www.freepnglogos.com/uploads/ataturk-png/mustafa-kemal-ataturk-imzasi-png-photo-8.png" />
           <meta property="og:image:alt" content="Eski TA - TPT" />
