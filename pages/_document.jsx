@@ -28,12 +28,12 @@ class MyDocument extends Document {
             property="og:description"
             content="Topluluk işlerine yardımcı olması için yapılmış olan bir bot!"
           />
-          <meta property="og:image" content="https://banafikirver.com/images/posts/2021/05/post-1622101586-7262-unlu.webp" />
+          <meta property="og:image" content="https://www.freepnglogos.com/uploads/ataturk-png/mustafa-kemal-ataturk-imzasi-png-photo-8.png" />
           <meta property="og:image:alt" content="Eski TA - TPT" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Ordu Yönetimi - TMA Studios"
+            content="Eski TA - TPT"
           />
           <meta name="theme-color" content="#dd0808" />
           <link rel="icon" href="https://www.freepnglogos.com/uploads/ataturk-png/mustafa-kemal-ataturk-imzasi-png-photo-8.png" type="image/x-icon" />
