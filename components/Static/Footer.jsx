@@ -32,7 +32,7 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Linkler</p>
                             <div>
-                                <a href="https://discord.gg/eskitatpt" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.gg/9TndYERNqE" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Eski TA - TPT
                                 </a>
                             </div>
@@ -40,7 +40,7 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Sosyal Medya</p>
                             <div>
-                                <Link href="https://discord.gg/eskitatpt">
+                                <Link href="https://discord.gg/9TndYERNqE">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-discord`} /> Discord 
                                     </a>
