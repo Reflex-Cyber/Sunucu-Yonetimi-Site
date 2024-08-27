@@ -30,7 +30,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Eski TA - TPT Sunucu",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
-      href: "https://discord.gg/eskitatpt",
+      href: "https://discord.gg/9TndYERNqE",
     },
   ]
 
