@@ -168,7 +168,7 @@ const Header = ({ $, NavItems }) => {
                         </Menu>
                         <Link href="https://discord.gg/dAFnKjYhcf">
                             <a className="w-auto flex items-center justify-center shadow-lg gap-x-2 shadow-amber-600/20 rounded-xl py-2.5 font-medium px-7 bg-gradient-to-tl from-amber-500 to-amber-700 text-white  hover:opacity-80 transition duration-200">
-                               Sunucumuza Katıl!
+                               Destek Sunucusu
                             </a>
                </Link>
                     </div>
