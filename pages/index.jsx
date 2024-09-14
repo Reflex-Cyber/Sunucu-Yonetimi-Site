@@ -26,19 +26,13 @@ export default function Index() {
           Botu Sunucuna Ekle
               </a>
             </Link>
-	 </div>
-        <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
-  
-            <Link href={"https://discord.gg/dAFnKjYhcf"}>
-              <a
-                className={
-                  "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
-                }
-              >
-          Destek Sunucusu
-              </a>
-            </Link>
-	 </div>
+  <div className="py-10"></div>
+  <Link href={"https://discord.com/invite/dAFnKjYhcf"}>
+  <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
+Destek Sunucusu</a>
+  </Link>
+        </div>
+	      
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 -left-[10vw] absolute top-[8vw] h-[35vw] flex-shrink-0 grayscale rotate-[1deg]">
         <Image width="600" height="600" src="/img/gift-left.png"  />
         </div>
