@@ -27,6 +27,13 @@ export default function AwardApp({ Component, pageProps }) {
     },
     {
       link: true,
+      name: "Komutlar",
+      icon: "fa fa-list-alt",
+      activeIcon: "fa fa-list-alt",
+      href: "/commands",
+    },
+    {
+      link: true,
       name: "Destek Sunucusu",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
