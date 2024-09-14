@@ -1,5 +1,5 @@
 {
-    "name": "OY",
+    "name": "SunucuYönetimi",
     "version": "5.0.0",
     "scripts": {
         "dev": "next dev",
