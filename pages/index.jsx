@@ -39,8 +39,8 @@ export default function Index() {
            
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Arkadaşlar</p>
-                  <p className="text-gray-500 line-clamp-4">Eski TA - TPT özel ve saygılı arkadaşlar ile Eski TA - TPT size arakadaş edinme keyfini doyasıya yaşatıyor.</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimizasyon</p>
+                  <p className="text-gray-500 line-clamp-4">Sunucu Yönetimi, sunucunuza özel hızlı ve özelleştirilebilir ayarlarıyla size daha iyi bir sunucu yönetme keyfini doyasıya yaşatır.</p>
                 </div>
               </div>
               <div>
@@ -71,7 +71,7 @@ export default function Index() {
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://media.discordapp.net/attachments/907378577253744640/1176892776877666325/image.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Sunucu Yönetimi</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En iyi ve en güncel sunucu olan Eski TA - TPT ile en iyi eğlenceyi yaşamaya hazır mısınız?</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Kendi duygularınızla rahatlayabileceğiniz en iyi ortamı yaratmaya ne dersiniz?</p>
                 </div>
                 <img src="/img/logo.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
