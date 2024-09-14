@@ -11,14 +11,14 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="Eski TA - TPT"
+            content="Sunucu Yönetimi"
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@EskiTATPT" />
-          <meta name="twitter:creator" content="@EskiTATPT" />
+          <meta name="twitter:site" content="@SunucuYönetimi" />
+          <meta name="twitter:creator" content="@SunucuYönetimi" />
           <meta property="og:url" content="https://eski-ta-tpt.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Eski TA - TPT" />
+          <meta property="og:title" content="Sunucu Yönetimi" />
           <link
             rel="icon"
             href="https://www.freepnglogos.com/uploads/ataturk-png/mustafa-kemal-ataturk-imzasi-png-photo-8.png"
@@ -26,14 +26,14 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="Eski TA - TPT hakkında bilgi almanı sağlar! Hemen tıkla."
+            content="Sunucu Yönetimi hakkında bilgi almanı sağlar! Hemen tıkla."
           />
           <meta property="og:image" content="https://www.freepnglogos.com/uploads/ataturk-png/mustafa-kemal-ataturk-imzasi-png-photo-8.png" />
           <meta property="og:image:alt" content="Eski TA - TPT" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Eski TA - TPT"
+            content="Sunucu Yönetimi"
           />
           <meta name="theme-color" content="#dd0808" />
           <link rel="icon" href="https://www.freepnglogos.com/uploads/ataturk-png/mustafa-kemal-ataturk-imzasi-png-photo-8.png" type="image/x-icon" />
