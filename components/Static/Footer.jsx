@@ -33,7 +33,7 @@ export default function Footer() {
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Linkler</p>
                             <div>
                                 <a href="https://discord.com/oauth2/authorize?client_id=1273971537107750993&permissions=8&integration_type=0&scope=bot+applications.commands" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Botu Ekle
+                                    Botu Sunucuna Ekle
                                 </a>
                             </div>
                         </div>
