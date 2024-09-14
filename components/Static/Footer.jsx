@@ -51,14 +51,14 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Important</p>
                             <div>
-                                <Link href="/gizlilik-şartları">
+                                <Link href="/gizlilik-politikasi">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Gizlilik Şartları
+                                        Gizlilik Politikası
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <Link href="/hizmet-şartları">
+                                <Link href="/hizmet-sartlari">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                         Hizmet Şartları
                                     </a>
