@@ -11,32 +11,32 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="Sunucu Yönetimi"
+            content="Topluluk işlerine yardımcı olması için yapılmış olan bir bot."
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@SunucuYönetimi" />
           <meta name="twitter:creator" content="@SunucuYönetimi" />
-          <meta property="og:url" content="https://eski-ta-tpt.vercel.app" />
+          <meta property="og:url" content="https://sunucuyönetimi.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Sunucu Yönetimi" />
+          <meta property="og:title" content="SunucuYönetimi" />
           <link
             rel="icon"
-            href="https://www.freepnglogos.com/uploads/ataturk-png/mustafa-kemal-ataturk-imzasi-png-photo-8.png"
+            href="/img/logo2.png"
             type="image/x-icon"
           />
           <meta
             property="og:description"
-            content="Sunucu Yönetimi hakkında bilgi almanı sağlar! Hemen tıkla."
+            content="Topluluk işlerine yardımcı olması için yapılmış olan bir bot."
           />
-          <meta property="og:image" content="https://www.freepnglogos.com/uploads/ataturk-png/mustafa-kemal-ataturk-imzasi-png-photo-8.png" />
-          <meta property="og:image:alt" content="Eski TA - TPT" />
+          <meta property="og:image" content="/img/logo.jpg" />
+          <meta property="og:image:alt" content="MusicMaker" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
             content="Sunucu Yönetimi"
           />
-          <meta name="theme-color" content="#dd0808" />
-          <link rel="icon" href="https://www.freepnglogos.com/uploads/ataturk-png/mustafa-kemal-ataturk-imzasi-png-photo-8.png" type="image/x-icon" />
+          <meta name="theme-color" content="#087ddd" />
+          <link rel="icon" href="/img/logo.png" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"
