@@ -18,7 +18,7 @@ class MyDocument extends Document {
           <meta name="twitter:creator" content="@SunucuYönetimi" />
           <meta property="og:url" content="https://sunucuyönetimi.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="SunucuYönetimi" />
+          <meta property="og:title" content="Sunucu Yönetimi" />
           <link
             rel="icon"
             href="/img/logo2.png"
@@ -29,13 +29,13 @@ class MyDocument extends Document {
             content="Topluluk işlerine yardımcı olması için yapılmış olan bir bot."
           />
           <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="MusicMaker" />
+          <meta property="og:image:alt" content="SunucuYönetimi" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
             content="Sunucu Yönetimi"
           />
-          <meta name="theme-color" content="#087ddd" />
+          <meta name="theme-color" content="#ff0000" />
           <link rel="icon" href="/img/logo.png" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
