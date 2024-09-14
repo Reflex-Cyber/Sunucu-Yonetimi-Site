@@ -3,32 +3,18 @@ import Link from "next/link";
 
 export default function Commands() {
 const commands = [
-  "/autoplay",
-  "/back",
-  "/statistic",
-  "/channel",
-  "/clear",
-  "/dj",
-  "/filter",
-  "/help",
-  "/language",
-  "/loop",
-  "/nowplaying",
-  "/pause",
-  "/ping",
-  "/play",
-  "/playlist",
-  "/queue",
-  "/resume",
-  "/save",
-  "/search",
-  "/seek",
-  "/servers",
-  "/shuffle",
-  "/skip",
-  "/stop",
-  "/time",
-  "/volume"
+  "/ayarla",
+  "/rol",
+  "/yardım",
+  "/bilet_sistemi",
+  "/tam_yasakla",
+  "/tam_yasakla_kaldır",
+  "/ses_ekle",
+  "/mesaj_sil",
+  "/yasakla",
+  "/yasaklama_kaldır",
+  "/sustur",
+  "/susturma_kaldır"
 ];
 
   return (
