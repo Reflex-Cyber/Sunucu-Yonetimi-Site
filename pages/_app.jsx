@@ -34,7 +34,7 @@ export default function AwardApp({ Component, pageProps }) {
     },
     {
       link: true,
-      name: "Destek",
+      name: "Destek Sunucusu",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
       href: "https://discord.gg/dAFnKjYhcf",
