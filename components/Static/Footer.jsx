@@ -48,7 +48,7 @@ export default function Footer() {
                             </div>
                         </div>
                         <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Important</p>
+                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Önemliler</p>
                             <div>
                                 <Link href="/gizlilik-politikasi">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
