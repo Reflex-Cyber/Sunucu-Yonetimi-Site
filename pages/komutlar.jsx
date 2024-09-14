@@ -42,7 +42,7 @@ const commands = [
          Botun Komutları
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        Sunucu Yönetimi Bot komutları hakkında bilgi alabilirsiniz.
+        Sunucu Yönetiminin bot komutları hakkında bilgi alabilirsiniz.
         </p>
 
         <div>
