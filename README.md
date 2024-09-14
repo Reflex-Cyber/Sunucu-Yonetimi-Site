@@ -1,4 +1,4 @@
-# Discord Bot React Native Website & Next.js
+# Sunucu Yönetimi Botu
 <br>
 <h3>WEBSITE THEME: https://musicmaker.vercel.app/</h3>
 <h3>MUSİCMAKER SOURCE CODE: https://github.com/umutxyp/MusicBot/</h3>
