@@ -26,6 +26,7 @@ export default function Index() {
           Botu Sunucunuza Ekleyiniz
               </a>
             </Link>
+	 </div>
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 -left-[10vw] absolute top-[8vw] h-[35vw] flex-shrink-0 grayscale rotate-[1deg]">
         <Image width="600" height="600" src="/img/gift-left.png"  />
         </div>
