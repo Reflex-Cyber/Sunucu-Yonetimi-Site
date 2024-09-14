@@ -1,7 +1,6 @@
 # Sunucu Yönetimi Botu
 <br>
-<h3>WEBSITE THEME: https://musicmaker.vercel.app/</h3>
-<h3>MUSİCMAKER SOURCE CODE: https://github.com/umutxyp/MusicBot/</h3>
+<h3>Site: https://sunucu-yonetimi.vercel.app/</h3>
 <hr>
 <h3>
-<h1>Support: https://discord.gg/codes</h1><br>
+<h1>Destek Sunucusu: [https://discord.gg/sunucuyönetimi](https://discord.gg/dAFnKjYhcf)</h1><br>
