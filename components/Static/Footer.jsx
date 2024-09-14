@@ -42,7 +42,7 @@ export default function Footer() {
                             <div>
                                 <Link href="https://discord.gg/ST89uArTdh">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-discord`} /> Disocrd 
+                                    <i className={`fa-brands fa-discord`} /> Discord 
                                     </a>
                                 </Link>
                             </div>
