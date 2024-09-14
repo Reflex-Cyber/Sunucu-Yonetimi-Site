@@ -32,15 +32,15 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Linkler</p>
                             <div>
-                                <a href="https://discord.gg/9TndYERNqE" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Eski TA - TPT
+                                <a href="https://discord.gg/dAFnKjYhcf" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                    Destek Sunucusu
                                 </a>
                             </div>
                         </div>
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Sosyal Medya</p>
                             <div>
-                                <Link href="https://discord.gg/9TndYERNqE">
+                                <Link href="https://discord.gg/dAFnKjYhcf">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-discord`} /> Discord 
                                     </a>
@@ -50,11 +50,11 @@ export default function Footer() {
                     </div>
                     <div className="mt-10 grid content-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
                         <p className="text-white text-center sm:text-left text-opacity-50">
-                            {new Date().getFullYear()} &copy; Eski TA - TPT
+                            {new Date().getFullYear()} &copy; Sunucu Yönetimi
                         </p>
                         <div className="hidden md:flex items-center justify-center">
                                 <p className={"text-xs text-green-400"}>
-                                    Site Aktif
+                                    Bot Aktif
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
