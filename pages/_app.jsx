@@ -27,10 +27,10 @@ export default function AwardApp({ Component, pageProps }) {
     },
     {
       link: true,
-      name: "Eski TA - TPT Sunucu",
+      name: "Destek Sunucusu",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
-      href: "https://discord.gg/9TndYERNqE",
+      href: "https://discord.gg/dAFnKjYhcf",
     },
   ]
 
@@ -43,7 +43,7 @@ export default function AwardApp({ Component, pageProps }) {
       />
       <Head>
         <title>
-          Eski TA - TPT
+          Sunucu Yönetimi
         </title>
       </Head>
       <main className="transition-all duration-200 z-10 absolute inset-0 px-5 h-screen max-w-7xl w-full mx-auto">
