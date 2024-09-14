@@ -76,7 +76,7 @@ const Header = ({ $, NavItems }) => {
                 <div className="max-w-7xl px-5 mx-auto py-5 flex items-center justify-between">
                     <div className="flex items-center space-x-6">
                         <div className="flex items-center space-x-3">
-                            <img src="https://play-lh.googleusercontent.com/glgNKjN8hykdWM8rNAGaAeUWA8SWwqH_ziJWvfqzw9_fyjivEGgQlvcm4cZ0Efu-4w=w600-h300-pc0xffffff-pd" 
+                            <img src="/img/logo2.png" 
                                 className={`
                                     rounded-full 
                                 `}
