@@ -3,7 +3,7 @@ export default function Privacy() {
     return (
         <div>
       <h2 className="mt-4 text-white font-bold text-3xl">Sunucu Yönetimi Gizlilik Politikası</h2>
-      <p className="text-sm text-white/30 mb-1">Son Güncelleme: 24/08/2024</p>
+      <p className="text-sm text-white/30 mb-1">Son Güncelleme: 14/09/2024</p>
             <div className="animateHeader text-white text-opacity-40 mt-5">
                 <p>Sunucu Yönetimi botunu kullanmak için, botu Discord sunucunuza eklerken gerekli izinleri tanımlamanız gerekmektedir.</p>
                 <div className="py-3"></div>
