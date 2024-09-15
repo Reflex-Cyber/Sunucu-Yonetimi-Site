@@ -11,9 +11,13 @@ export default function Privacy() {
                 <div className="py-3"></div>
                 <p>Sunucu Yönetimini botunu kullanırken bazı komutları aynı anda kullanamazsınız.</p>
                 <div className="py-3"></div>
+                <p>Sunucu Yönetimini botununun komutları ard arda kullanamazsınız.</p>
+                <div className="py-3"></div>
                 <p>Sunucu Yönetimi botu, kullanıcılarla ilgili herhangi bir veri saklamaz.</p>
                 <div className="py-3"></div>
                 <p>Botu kullanırken, kullanıcı ID'niz sistemde yalnızca 60 saniye boyunca kaydedilir ve ardından silinir.</p>
+                <div className="py-3"></div>
+                <p>Bot, sizin mesajlarınızı, sizin ayarladığınız yapay zeka ile konuşma kanalında algılayıp size yanıt verir. Mesaj verilerinizi saklamaz.</p>
             </div>
         </div>
     );
